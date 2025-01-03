@@ -157,6 +157,11 @@ const sidebars = {
       	  id: 'bridge/deposit-and-withdraw',
           label: 'Deposit and Withdraw',
         },
+        {
+          type: 'doc',
+      	  id: 'bridge/cross-chain',
+          label: 'Cross-chain Transaction',
+        },
 	{
           type: 'category',
           label: "Relayer",
